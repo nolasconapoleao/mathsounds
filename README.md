@@ -106,3 +106,6 @@ Visual studio code [config](https://github.com/nolasconapoleao/.vscode)
 
 ## Generator
 Project generated using [cookiecutter project](https://github.com/nolasconapoleao/cookiecutter-template)
+
+## References
+https://pages.mtu.edu/~suits/notefreqs.html
